@@ -1,0 +1,17 @@
+<!--<!DOCTYPE html>-->
+<!--<html>-->
+<!--<head>-->
+    <!--<title>Heroes</title>-->
+<!--</head>-->
+
+<!--<body>-->
+<!--<h1>Hero id: {{hero.id}}</h1>-->
+<!--<p>Name: {{hero.name}}</p>-->
+<!--<p>Rank: {{hero.rank}}</p>-->
+<!--</body>-->
+
+<!--</html>-->
+
+<h1>Hero id: {{hero.id}}</h1>
+<p>Name: {{hero.name}}</p>
+<p>Rank: {{hero.rank}}</p>

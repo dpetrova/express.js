@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Heroes</title>
+</head>
+
+<body>
+{{#heroes}}
+<h1>Hero id: {{id}}</h1>
+<p>Name: {{name}}</p>
+<p>Rank: {{rank}}</p>
+{{/heroes}}
+</body>
+
+</html>
+
